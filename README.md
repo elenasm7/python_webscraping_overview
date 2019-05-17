@@ -7,7 +7,7 @@ This will not be an exhaustive overview of all the resources at your disposal wi
 ## Part 1: Beautiful Soup
 Beautiful Soup is a great resource, and more often than not it will be the one that you will use. It is a python package that is used to parce HTML and XML. It has some pitfalls when it comes to dynamic websites, which is when we will make use of Selenium, however it should be the first resource you turn to!
 
-##Part 2: Selenium
+## Part 2: Selenium
 mention that most of the time when you think Selenium is needed, it's not
 
-##Part 3: Bring it all Together
+## Part 3: Bring it all Together
